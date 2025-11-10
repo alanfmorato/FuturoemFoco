@@ -16,7 +16,7 @@ Estudantes brasileiros enfrentam dificuldade em tomar decisões sobre qual unive
 - Obter insights reais de alunos e ex-alunos sobre a experiência acadêmica.
 
 ## Proposta de Valor
-Oferecer uma plataforma digital unificada que reúne dados concretos, comparações personalizadas e avaliações reais, auxiliando estudantes brasileiros a tomar **decisões acadêmicas mais conscientes** sobre sua futura graduação.
+Oferecer uma plataforma digital unificada que reúne dados concretos, comparações personalizadas e avaliações reais, auxiliando estudantes brasileiros a tomar decisões acadêmicas mais conscientes sobre sua futura graduação.
 
 ## Recursos Essenciais (MVP até novembro/2025)
 - Busca e comparação básica de cursos e universidades.  
@@ -74,7 +74,7 @@ Estudantes brasileiros têm dificuldade em escolher a universidade ideal devido 
 - Equipe de desenvolvimento enxuta e focada na validação do MVP.
 
 ## Restrições
-- Prazo de entrega: **novembro/2025**.  
+- Prazo de entrega: novembro/2025.  
 - Orçamento limitado.  
 - Escopo inicial reduzido ao MVP.
 
@@ -120,39 +120,39 @@ Estudantes brasileiros têm dificuldade em escolher a universidade ideal devido 
 
 ## Épico 1 – Busca e Comparação de Universidades e Cursos
 
-- **US01 – Como estudante**, quero buscar cursos e universidades por nome, **para encontrar rapidamente as opções que me interessam**.  
+- **US01 – Como estudante**, quero buscar cursos e universidades por nome, para encontrar rapidamente as opções que me interessam.  
   **Critérios de aceitação:** campo de busca disponível; retorno de resultados em lista; resultados devem conter nome da instituição e curso.
 
-- **US02 – Como estudante**, quero comparar duas ou mais universidades/cursos, **para identificar diferenças em notas de corte, localização e custo de vida**.  
+- **US02 – Como estudante**, quero comparar duas ou mais universidades/cursos, para identificar diferenças em notas de corte, localização e custo de vida.  
   **Critérios de aceitação:** seleção de até 3 opções; tela de comparação lado a lado; exibição clara dos atributos comparados.
 
 ---
 
 ## Épico 2 – Notas de Corte do ENEM
 
-- **US03 – Como estudante**, quero visualizar a nota de corte do ENEM para o curso e universidade escolhidos, **para avaliar minhas chances de ingresso**.  
+- **US03 – Como estudante**, quero visualizar a nota de corte do ENEM para o curso e universidade escolhidos, para avaliar minhas chances de ingresso.  
   **Critérios de aceitação:** exibir nota de corte mais recente disponível; indicar modalidade (ampla concorrência, cotas).
 
 ---
 
 ## Épico 3 – Custo de Vida por Cidade
 
-- **US04 – Como estudante**, quero visualizar uma estimativa de custo de vida por cidade (moradia, alimentação, transporte), **para planejar meu orçamento**.  
+- **US04 – Como estudante**, quero visualizar uma estimativa de custo de vida por cidade (moradia, alimentação, transporte), para planejar meu orçamento.  
   **Critérios de aceitação:** apresentar valores médios mensais; permitir comparação entre cidades.
 
 ---
 
 ## Épico 4 – Filtros de Pesquisa
 
-- **US05 – Como estudante**, quero filtrar os cursos e universidades por estado e cidade, **para limitar minha busca às regiões de interesse**.  
+- **US05 – Como estudante**, quero filtrar os cursos e universidades por estado e cidade, para limitar minha busca às regiões de interesse.  
   **Critérios de aceitação:** filtros de estado e cidade disponíveis; resultados atualizados automaticamente.
 
 ---
 
 ## Épico 5 – Mapa Interativo
 
-- **US06 – Como estudante**, quero visualizar as universidades em um mapa interativo, **para entender a localização geográfica das opções**.  
-  **Critérios de aceitação:** mapa integrado com *pins* por universidade; ao clicar em um *pin*, exibir nome da instituição e principais cursos.
+- **US06 – Como estudante**, quero visualizar as universidades em um mapa interativo, para entender a localização geográfica das opções.  
+  **Critérios de aceitação:** mapa integrado com pins por universidade; ao clicar em um *pin*, exibir nome da instituição e principais cursos.
 
 ---
 
@@ -229,7 +229,7 @@ Oferece informações centralizadas, facilitando o trabalho de orientação e me
 ### **US001 – Busca de Universidades e Cursos**
 
 **Descritivo:**  
-Eu, como estudante do ensino médio, gostaria de pesquisar universidades e cursos por palavra-chave **para que eu possa encontrar rapidamente as opções que me interessam**.
+Eu, como estudante do ensino médio, gostaria de pesquisar universidades e cursos por palavra-chave para que eu possa encontrar rapidamente as opções que me interessam.
 
 **Critérios de Aceitação:**
 - Sistema deve permitir busca por nome da universidade  
@@ -250,7 +250,7 @@ Eu, como estudante do ensino médio, gostaria de pesquisar universidades e curso
 ### **US002 – Filtros Avançados**
 
 **Descritivo:**  
-Eu, como estudante, gostaria de filtrar universidades por estado e cidade **para que eu possa focar nas opções da minha região de interesse**.
+Eu, como estudante, gostaria de filtrar universidades por estado e cidade para que eu possa focar nas opções da minha região de interesse.
 
 **Critérios de Aceitação:**
 - Dropdown de estados deve listar todos os estados brasileiros  
@@ -273,7 +273,7 @@ Eu, como estudante, gostaria de filtrar universidades por estado e cidade **para
 ### **US003 – Detalhes da Universidade**
 
 **Descritivo:**  
-Eu, como estudante, gostaria de visualizar informações completas de uma universidade **para que eu possa tomar uma decisão informada sobre minha candidatura**.
+Eu, como estudante, gostaria de visualizar informações completas de uma universidade para que eu possa tomar uma decisão informada sobre minha candidatura.
 
 **Critérios de Aceitação:**
 - Deve exibir informações básicas (nome, localização, nota)  
@@ -295,7 +295,7 @@ Eu, como estudante, gostaria de visualizar informações completas de uma univer
 ### **US004 – Comparação de Universidades**
 
 **Descritivo:**  
-Eu, como estudante, gostaria de comparar diferentes universidades lado a lado **para que eu possa avaliar qual oferece melhores condições para meu perfil**.
+Eu, como estudante, gostaria de comparar diferentes universidades lado a lado para que eu possa avaliar qual oferece melhores condições para meu perfil.
 
 **Critérios de Aceitação:**
 - Deve permitir selecionar múltiplas universidades  
@@ -318,7 +318,7 @@ Eu, como estudante, gostaria de comparar diferentes universidades lado a lado **
 ### **US005 – Mapa Interativo**
 
 **Descritivo:**  
-Eu, como estudante, gostaria de visualizar universidades em um mapa interativo **para que eu possa entender a distribuição geográfica e proximidade das instituições**.
+Eu, como estudante, gostaria de visualizar universidades em um mapa interativo para que eu possa entender a distribuição geográfica e proximidade das instituições.
 
 **Critérios de Aceitação:**
 - Deve exibir mapa do Brasil com markers das universidades  
@@ -339,7 +339,7 @@ Eu, como estudante, gostaria de visualizar universidades em um mapa interativo *
 ### **US006 – Navegação entre Páginas**
 
 **Descritivo:**  
-Eu, como usuário, gostaria de navegar facilmente entre diferentes seções do sistema **para que eu possa acessar rapidamente as informações que preciso**.
+Eu, como usuário, gostaria de navegar facilmente entre diferentes seções do sistema para que eu possa acessar rapidamente as informações que preciso.
 
 **Critérios de Aceitação:**
 - Menu de navegação deve estar sempre visível  
@@ -362,7 +362,7 @@ Eu, como usuário, gostaria de navegar facilmente entre diferentes seções do s
 ### **US007 – Cadastro de Universidades**
 
 **Descritivo:**  
-Eu, como administrador do sistema, gostaria de cadastrar e gerenciar informações das universidades **para que os dados estejam sempre atualizados e precisos para os usuários**.
+Eu, como administrador do sistema, gostaria de cadastrar e gerenciar informações das universidades para que os dados estejam sempre atualizados e precisos para os usuários.
 
 **Critérios de Aceitação:**
 - Deve permitir cadastrar nova universidade  
@@ -383,7 +383,7 @@ Eu, como administrador do sistema, gostaria de cadastrar e gerenciar informaçõ
 ### **US008 – Gestão de Cursos**
 
 **Descritivo:**  
-Eu, como representante da universidade, gostaria de gerenciar os cursos oferecidos **para que as informações estejam corretas e atrativas para potenciais alunos**.
+Eu, como representante da universidade, gostaria de gerenciar os cursos oferecidos para que as informações estejam corretas e atrativas para potenciais alunos.
 
 **Critérios de Aceitação:**
 - Deve permitir adicionar/remover cursos  
@@ -406,7 +406,7 @@ Eu, como representante da universidade, gostaria de gerenciar os cursos oferecid
 ### **US009 – Avaliação de Universidades**
 
 **Descritivo:**  
-Eu, como estudante ou ex-aluno, gostaria de avaliar e comentar sobre universidades **para que outros estudantes tenham acesso a experiências reais**.
+Eu, como estudante ou ex-aluno, gostaria de avaliar e comentar sobre universidades para que outros estudantes tenham acesso a experiências reais.
 
 **Critérios de Aceitação:**
 - Deve permitir dar nota de 1 a 5 estrelas  
@@ -427,7 +427,7 @@ Eu, como estudante ou ex-aluno, gostaria de avaliar e comentar sobre universidad
 ### **US010 – Favoritos e Lista de Interesse**
 
 **Descritivo:**  
-Eu, como estudante, gostaria de salvar universidades em uma lista de favoritos **para que eu possa acompanhar e comparar minhas opções preferidas facilmente**.
+Eu, como estudante, gostaria de salvar universidades em uma lista de favoritos para que eu possa acompanhar e comparar minhas opções preferidas facilmente.
 
 **Critérios de Aceitação:**
 - Deve permitir adicionar/remover universidades dos favoritos  
@@ -450,7 +450,7 @@ Eu, como estudante, gostaria de salvar universidades em uma lista de favoritos *
 ### **US011 – Performance do Sistema**
 
 **Descritivo:**  
-Eu, como usuário, gostaria que o sistema carregue rapidamente **para que eu tenha uma experiência fluida durante a navegação**.
+Eu, como usuário, gostaria que o sistema carregue rapidamente para que eu tenha uma experiência fluida durante a navegação.
 
 **Critérios de Aceitação:**
 - Páginas devem carregar em menos de 3 segundos  
@@ -471,7 +471,7 @@ Eu, como usuário, gostaria que o sistema carregue rapidamente **para que eu ten
 ### **US012 – Acessibilidade Digital**
 
 **Descritivo:**  
-Eu, como usuário com deficiência, gostaria de navegar e usar todas as funcionalidades **para que eu tenha acesso igual às informações educacionais**.
+Eu, como usuário com deficiência, gostaria de navegar e usar todas as funcionalidades para que eu tenha acesso igual às informações educacionais.
 
 **Critérios de Aceitação:**
 - Deve ser compatível com leitores de tela  
@@ -494,7 +494,7 @@ Eu, como usuário com deficiência, gostaria de navegar e usar todas as funciona
 ### **US013 – Aplicação Mobile-First**
 
 **Descritivo:**  
-Eu, como usuário mobile, gostaria de ter acesso completo a todas as funcionalidades **para que eu possa usar o sistema em qualquer lugar**.
+Eu, como usuário mobile, gostaria de ter acesso completo a todas as funcionalidades para que eu possa usar o sistema em qualquer lugar.
 
 **Critérios de Aceitação:**
 - Deve ser totalmente responsivo  
@@ -525,7 +525,7 @@ Eu, como usuário mobile, gostaria de ter acesso completo a todas as funcionalid
 **Período:** 04/09/2025 – 20/10/2025 (~6 semanas)
 
 **Objetivo:**  
-Entregar funcionalidades críticas que permitam **busca, visualização de informações e filtros básicos**, garantindo que o usuário consiga encontrar e comparar universidades e cursos.
+Entregar funcionalidades críticas que permitam busca, visualização de informações e filtros básicos, garantindo que o usuário consiga encontrar e comparar universidades e cursos.
 
 **User Stories incluídas:**
 - US001 – Busca de Universidades e Cursos  
@@ -553,7 +553,7 @@ Entregar funcionalidades críticas que permitam **busca, visualização de infor
 **Período:** 21/10/2025 – 12/11/2025 (~3 semanas)
 
 **Objetivo:**  
-Melhorar **experiência do usuário**, adicionando funcionalidades de **avaliação, favoritos, gerenciamento de conteúdo e navegação intuitiva**.
+Melhorar **experiência do usuário**, adicionando funcionalidades de avaliação, favoritos, gerenciamento de conteúdo e navegação intuitiva.
 
 **User Stories incluídas:**
 - US006 – Navegação entre Páginas  
@@ -580,7 +580,7 @@ Melhorar **experiência do usuário**, adicionando funcionalidades de **avaliaç
 **Período:** 13/11/2025 – 22/11/2025 (~1,5 semana)
 
 **Objetivo:**  
-Garantir **qualidade técnica e experiência completa em todos os dispositivos**, incluindo acessibilidade e performance otimizada.
+Garantir qualidade técnica e experiência completa em todos os dispositivos, incluindo acessibilidade e performance otimizada.
 
 **User Stories incluídas:**
 - US011 – Performance do Sistema  
@@ -676,7 +676,7 @@ Garantir **qualidade técnica e experiência completa em todos os dispositivos**
 | Despesas Operacionais | Internet, energia, periféricos | Pequenas despesas do time | 1.500 |
 | Contingência | Reserva para imprevistos | 10% do total estimado | 7.000 |
 
-**Total estimado do projeto:** **81.000 BRL**
+**Total estimado do projeto:** **R$81000**
 
 ---
 
