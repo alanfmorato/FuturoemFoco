@@ -660,13 +660,12 @@ Garantir qualidade técnica e experiência completa em todos os dispositivos, in
    - Testes de performance e automação  
    - Marketing inicial do MVP  
    - Despesas operacionais (internet, energia, equipamentos)  
-4. **Câmbio e impostos:** valores simulados em BRL.  
 
 ---
 
 ## Estimativa de Custos por Categoria
 
-| Categoria | Descrição | Justificativa do Custo | Custo Estimado (BRL) |
+| Categoria | Descrição | Justificativa do Custo | Custo Estimado |
 | --- | --- | --- | --- |
 | Equipe | 1 Líder (PO/SM) + 3 Desenvolvedores Full-stack | Salário médio proporcional (~11 semanas) | 60.000 |
 | Licenças de Software | IDEs, Figma/Adobe, Jira, Notion, Git privado | Licenças para 3 meses de uso | 3.000 |
@@ -682,7 +681,7 @@ Garantir qualidade técnica e experiência completa em todos os dispositivos, in
 
 ## Distribuição de Custos por Release
 
-| Release | Período | User Stories | Custo Estimado (BRL) | Descrição do Custo |
+| Release | Período | User Stories | Custo Estimado | Descrição do Custo |
 | --- | --- | --- | --- | --- |
 | Release 1 – MVP Essencial | 04/09 – 20/10 | US001 a US005 | 35.000 | Foco em busca, filtros, visualização, comparação e mapa. |
 | Release 2 – Experiência do Usuário | 21/10 – 12/11 | US006 a US010 | 28.000 | Gestão de conteúdo, avaliação, favoritos e navegação. |
